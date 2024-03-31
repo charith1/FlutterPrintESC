@@ -59,4 +59,4 @@ FlutterPrintESC is released under the MIT License. See the LICENSE file in the p
 Special thanks to the Flutter community and all contributors who have made FlutterPrintESC possible.
 
 ## Contact and Support
-For support or inquiries, please open an issue on our GitHub repository or contact us at support@flutterprintesc.com.
+For support or inquiries, please open an issue on our GitHub repository or contact us at charith250@gmail.com.
